@@ -1,3 +1,7 @@
 Windows 10 is a great operating system, but what is most important is the level of customizability and abundance of the OS.
 Windows is fantastic when it comes to adjusting things to your liking, apps like rainmeter can be downloaded and implemented to format the homescreen exactly as you want.
 The home screen also has a start button located which allows you to search all program files and pull any relavent data, in WIN 10 you just start typing!
+
+Windows security is also a very important part of this OS.With constant updates it keeps hackers and malware away from your PC.
+If the basic windows defender isn't enough for you fortunately aftermarket software can be downloaded that increases your protections.
+Another beenfit of windows OS is you will find a lot of free and great working software for it.
