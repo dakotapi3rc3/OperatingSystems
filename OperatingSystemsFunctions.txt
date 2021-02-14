@@ -5,3 +5,7 @@ The home screen also has a start button located which allows you to search all p
 Windows security is also a very important part of this OS.With constant updates it keeps hackers and malware away from your PC.
 If the basic windows defender isn't enough for you fortunately aftermarket software can be downloaded that increases your protections.
 Another beenfit of windows OS is you will find a lot of free and great working software for it.
+
+Windows device manager offers a central location to manage any peripherals you have added, so if you need to troubleshoot this is an excellent starting point.
+With the device manager you can also set limits for certain applications and how loud or quiet you want them.
+If a device isn't working properly windows also has a troubleshoot button that handles the work for you and scours the web for any related instance and double checks all related pathways are clear and functioning properly.
